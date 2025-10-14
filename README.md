@@ -95,6 +95,6 @@ If you use this work, please cite our paper:
 ## Acknowledgments  
 This research uses the **In-Gauge and En-Gage datasets (PhysioNet)** and was supported by insights from **La Sapienza Università di Roma** and **independent contributions** from the authors.
 
-## 🧩 Contact  
+## Contact  
 📧 vaibhavkumar651@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-katturu-559787185/)
